@@ -4,6 +4,12 @@
 [//]: # (alguno otro de tu preferencia)
 
 El bit que era muy flojo se decidió por el espagueti frio y podrido de una semana. 
+![](http://witsaboutme.files.wordpress.com/2008/09/flying_spaghetti_monster.jpg)
+
+
+
+
+
 Peeeero, se le ocurrió echarle la crema de coliflor, qué crees que hizo?
 
 1.- Se la echó [selecciona aquí](echarle-la-crema.md)
