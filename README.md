@@ -5,11 +5,11 @@ Creada por los estudiantes de primer semestre de la LCC y algún que otro profes
 
 ## El inicio
 
-![](https://s1.piq.land/2011/11/29/ybhfSPC2txqkuesinrUgFc1l_400x400.png)
+![](bitecito.png)
 
 Al inicio era solo un pequeño bit perdido en un gran procesador. El bitecito estaba solo y tenía frío, así que se fue a la RAM a ver si había todavía algo que comer en el refri. Tenía tanta hambre, y era tán flojo, que esperaba que quedara algo de lo que cocinó su mamá byte para comérselo frío, en el mismo recipiente donde lo habían guardado, o si era incomible frio (como una gallina pinta) calentarla en el microondas.
 
-![](https://rpelm.com/images/fridge-clipart-out-1.png)
+![](refrigerator.png)
 
 Cuando llegó a la RAM y revisó el refri, se encontró que había solo una crema de coliflor y un espagueti que ya tenía una semana. ¿Qué hacer?
 
