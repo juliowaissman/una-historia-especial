@@ -9,3 +9,4 @@
 | 5    | Martin Vega              | MJVNOR@outlook.com                        |
 | 6    |Juan Pablo Lohr           | j.p.lohr.medina@gmail.com                 |
 | 7    |Juan Hernandez            | jahcproo@hotmail.com                      |
+| 8    | Andrew Rivera            | andrewrivera3000@gmail.com                |
