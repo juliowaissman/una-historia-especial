@@ -10,4 +10,4 @@
 | 6    |Juan Pablo Lohr           | j.p.lohr.medina@gmail.com                 |
 | 7    |Juan Hernandez            | jahcproo@hotmail.com                      |
 | 8    | Andrew Rivera            | andrewrivera3000@gmail.com                |
-| 9    |Hugo Cano                 | slabxcobra@gmail.com                      |
+| 9    | Manuel Monge             | manuelcrisologo@hotmail.com               |
