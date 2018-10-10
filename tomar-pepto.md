@@ -3,3 +3,8 @@
 [//]: # (leer-un-poema.md)
 [//]: # (estudiar-calculo.md)
 [//]: # (alguno otro de tu preferencia)
+
+
+1.- [Leer un poema](leer-un-poema.md)
+2.- [Estudiar cálculo](estudiar-calculo.md)
+3.- [Tengo-dudas-de-porque-vivir](Tengo-dudas-de-porque-vivir)
