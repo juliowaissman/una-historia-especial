@@ -4,12 +4,12 @@
 [//]: # (inventar otro)
 [//]: # (alguno otro de tu preferencia)
 
+![](bojack.jpg)
 
-#Montar a caballo
+Bitecito se subió a un caballo, pero al parecer a Bojack no le pareció, entonces lo tiró al suelo y Bitecito se lastimó la Matrix. ¿Qué debería hacer?
 
-Al haber terminado de comer el pequeño bite se decidio a aventurarse en su caballo llamado Timoteo y en el camino despues de un largo viaje de 20 min. se enfrentaba en un dilema que era si:
+1. Si decide presionar Ctrl+Z para volver a su estado anterior [selecciona aquí](revivir-bitecito.md)
 
-Escoge: 
+2. Si decide morir en paz [selecciona aquí](muerte-de-bitecito.md)
 
-1. [Quedarse a acampar en el bosque].(acampar.md)
-2. [Empezar un tiroteo en el pueblo mas cercano].(Empezar tiroteo.md)
+3. Si decide ir al oxxo por medicina [selecciona aquí](ir-al-oxxo.md)
