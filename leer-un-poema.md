@@ -1,3 +1,4 @@
+[//]: # (Esta es respuesta de: tomar-pepto.md)
 [//]: # (agregar la historia, para ir a: )
 [//]: # (PicosA)
 [//]: # (alguno otro de tu preferencia)
