@@ -1,5 +1,5 @@
 [//]: # (Por: Martin Vega)
 [//]: # (agregar la historia, para ir a: )
-[//]: # (Hablarle-a-tu-abuela.md)
+[//]: # (Hablarle-a-su-abuela.md)
 [//]: # (Tengo-dudas-de-porque-vivir.md)
-[//]: # (alguno otro de tu preferencia)
+[//]: # (Y-compre-unos-doritos-con-Mountain Dew)
