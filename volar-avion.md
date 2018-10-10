@@ -1,5 +1,5 @@
 [//]: # (Por: Martin Vega)
 [//]: # (agregar la historia, para ir a: )
-[//]: # (inventar uno)
-[//]: # (inventar otro)
-[//]: # (alguno otro de tu preferencia)
+[//]: # (mi-esposa-me-abandono.md)
+[//]: # (me-estrelle.md)
+[//]: # (hoy-es-el-cumpleanios-de-mi-hijo.md)
