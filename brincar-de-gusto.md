@@ -1,4 +1,6 @@
+[//]: # (por: Juan Hernandez)
 [//]: # (agregar la historia, para ir a: )
 [//]: # (inventar uno)
 [//]: # (inventar otro)
 [//]: # (alguno otro de tu preferencia)
+
