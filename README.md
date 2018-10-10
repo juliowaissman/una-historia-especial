@@ -7,7 +7,7 @@ Creada por los estudiantes de primer semestre de la LCC y algún que otro profes
 
 ![](bitecito.png)
 
-Al inicio era solo un pequeño bit perdido en un gran procesador. El bitecito estaba solo y tenía frío, así que se fue a la RAM a ver si había todavía algo que comer en el refri. Tenía tanta hambre, y era tán flojo, que esperaba que quedara algo de lo que cocinó su mamá byte para comérselo frío, en el mismo recipiente donde lo habían guardado, o si era incomible frio (como una gallina pinta) calentarla en el microondas.
+Al inicio era solo un pequeño bit perdido en un gran procesador. El bitecito estaba solo y tenía monchis, así que se fue a la RAM a ver si había todavía algo que comer en el refri. Tenía tanta hambre, y era tán flojo, que esperaba que quedara algo de lo que cocinó su mamá byte para comérselo frío, en el mismo recipiente donde lo habían guardado, o si era incomible frio (como una gallina pinta) calentarla en el microondas.
 
 ![](refrigerator.png)
 
