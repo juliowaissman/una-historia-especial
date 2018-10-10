@@ -1,6 +1,6 @@
 # Una historia especial
 
-Creada por los estudiantes de primer semestre de la LCC y algún que otro profesor, tal como se puede ver en el [listado de colaboradores](colaboradores.md). Con esta historia, pretendemos enterarnos un poco del uso de *git* para trabajo colaborativo así como de la plataforma de *github*.
+Creada por los estudiantes de primer semestre de la LCC y algún que otro profesor, tal como se puede ver en el [listado de colaboradores](colaboradores.md). Con esta historia, pretendemos enterarnos un poco del uso de *git* para trabajo colaborativo así como de la plataforma *github*.
 
 
 ## El inicio
