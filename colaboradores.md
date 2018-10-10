@@ -7,4 +7,5 @@
 | 3    | Luis Lopez               | luislopsan21@gmail.com                    |
 | 4    | Oscar Soto               | oscar_rene2010@hotmail.com                |
 | 5    | Martin Vega              | MJVNOR@outlook.com                        |
-| 6    |Juan Pablo Lohr           | j.p.lohr.medina@gmail.com                 |
+| 6    |Juan Pablo Lohr           | j.p.lohr.medina@gmail.com                 
+| 7    | Hugo Cano                | slabxcobra@gmail.com                      |
