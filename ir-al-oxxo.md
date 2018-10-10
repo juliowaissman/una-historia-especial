@@ -1,5 +1,5 @@
 [//]: # (Por: Martin Vega)
 [//]: # (agregar la historia, para ir a: )
-[//]: # (inventar uno)
-[//]: # (inventar otro)
+[//]: # (Hablarle-a-tu-abuela.md)
+[//]: # (Tengo-dudas-de-porque-vivir.md)
 [//]: # (alguno otro de tu preferencia)
