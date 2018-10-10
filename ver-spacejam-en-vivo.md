@@ -1,3 +1,4 @@
+[//]: # (Por: Andrew Rivera )
 [//]: # (agregar la historia, para ir a: )
 [//]: # (inventar uno)
 [//]: # (inventar otro)
