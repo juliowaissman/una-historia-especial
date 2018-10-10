@@ -11,3 +11,4 @@
 | 7    |Juan Hernandez            | jahcproo@hotmail.com                      |
 | 8    | Andrew Rivera            | andrewrivera3000@gmail.com                |
 | 9    | Manuel Monge             | manuelcrisologo@hotmail.com               |
+| 10   | Alejandra Picos          | alepicos56@gmail.com                      |
