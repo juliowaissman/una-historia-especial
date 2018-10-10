@@ -5,9 +5,13 @@ Creada por los estudiantes de primer semestre de la LCC y algún que otro profes
 
 ## El inicio
 
-Al inicio era solo un pequeño bit perdido en un gran procesador. El bitecito estaba solo y tenía frio, así que se fue a la RAM a ver si habia todavía algo que comer en el refri. Tenía tanta hambre, y era tán flojo, que esperaba que quedara algo de lo que cocino su mamá byte para comerselo frío, tal como salía del refri, o si era incombible frio (como una gallina pinta) calentarla en el microondas.
+![](https://s1.piq.land/2011/11/29/ybhfSPC2txqkuesinrUgFc1l_400x400.png)
 
-Cuando llego a la RAM y revisó el refri, se encontro que había solo una crema de coliflor y un espagueti que ya tenía una semana. ¿Qué hacer?
+Al inicio era solo un pequeño bit perdido en un gran procesador. El bitecito estaba solo y tenía frío, así que se fue a la RAM a ver si había todavía algo que comer en el refri. Tenía tanta hambre, y era tán flojo, que esperaba que quedara algo de lo que cocinó su mamá byte para comérselo frío, en el mismo recipiente donde lo habían guardado, o si era incomible frio (como una gallina pinta) calentarla en el microondas.
+
+![](https://cdn.pixabay.com/photo/2016/12/07/09/41/refrigerator-1889067_960_720.jpg)
+
+Cuando llegó a la RAM y revisó el refri, se encontró que había solo una crema de coliflor y un espagueti que ya tenía una semana. ¿Qué hacer?
 
 1. Si decide calentar la crema en el microondas [selecciona aquí](calentar-micro.md)
 
