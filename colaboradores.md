@@ -1,5 +1,5 @@
 # Lista de colaboradores del cuento
 
-| No.  |  Nombre                  |  github                                   |
+| No.  |  Nombre                  |  Correo electrónico                       |
 |------|--------------------------|-------------------------------------------|
-| 1    | Julio Waissman           | [juliowaissman](www.github.com/juliowaissman) |
+| 1    | Julio Waissman           | julio.waissman@unison.mx                  |
