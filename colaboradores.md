@@ -2,4 +2,4 @@
 
 | No.  |  Nombre                  |  github                                   |
 |------|--------------------------|-------------------------------------------|
-| 1    | Julio Waissman           | [juliowaissman](github.com/juliowaissman) |
+| 1    | Julio Waissman           | [juliowaissman](www.github.com/juliowaissman) |
