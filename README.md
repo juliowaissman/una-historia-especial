@@ -9,7 +9,7 @@ Creada por los estudiantes de primer semestre de la LCC y algún que otro profes
 
 Al inicio era solo un pequeño bit perdido en un gran procesador. El bitecito estaba solo y tenía frío, así que se fue a la RAM a ver si había todavía algo que comer en el refri. Tenía tanta hambre, y era tán flojo, que esperaba que quedara algo de lo que cocinó su mamá byte para comérselo frío, en el mismo recipiente donde lo habían guardado, o si era incomible frio (como una gallina pinta) calentarla en el microondas.
 
-![](https://cdn.pixabay.com/photo/2016/12/07/09/41/refrigerator-1889067_960_720.jpg)
+![](https://rpelm.com/images/fridge-clipart-out-1.png)
 
 Cuando llegó a la RAM y revisó el refri, se encontró que había solo una crema de coliflor y un espagueti que ya tenía una semana. ¿Qué hacer?
 
