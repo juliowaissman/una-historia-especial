@@ -7,6 +7,6 @@ Bitecito sintió ganas de volver lo que no había comido, y precisamente por és
 
 1.- Algún lugar de los ceros [selecciona aquí](algún-lugar-de-los-ceros.md)
 
-2.- __DROGAS O_o__ [**selecciona acá**](Drogas-O_o.md)
+2.- __DROGAS O_o__ [**selecciona acá**](Drogas O_o.md)
 
 3.-Prefiero volver a la elección anterior D: [selecciona aquí](comer-espagueti-podrido.md)
