@@ -1,4 +1,4 @@
-[//]: # (Daniel:)
+[//]: # (Daniel)
 [//]: # (en proceso...)
 
 Aunque "Suculenta" sea una palabra mundana. Lejos de la más vaga representación verbal del arte culinario; la falta de esta ocasionó que nuestro joven y pequeño extraño empezara a alucinar. ¿Alucinar? Sí, todo inició con el suelo que se creía mar salido del hombligo de un pequeño hombre aventurero. El suelo no se quedaba quieto, bailaba de arriba hacia abajo creando mareo tras mareo y marea tras marea. Después, no sólo fue el suelo quien enrareció la habitación, pues fueron las paredes quienes se unieron al baile de la lluvia, dentro de un olocausto causado por la odisea más bella  y repugnante posible.
