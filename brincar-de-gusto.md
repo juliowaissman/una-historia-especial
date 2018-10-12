@@ -6,6 +6,6 @@
 
 
 1.- [Hablar Con Hugo](hablar-con-hugo.md)
-2.- [Hacerme una quesadillas] (Hacerme-unas-quesadillas.md)
-3.- [jugar PUBG] (jugar-PUBG.md)
+2.- [Hacerme una quesadillas](Hacerme-unas-quesadillas.md)
+3.- [jugar PUBG](jugar-PUBG.md)
 4.- [Jugar Lol](jugar-lol.md)
