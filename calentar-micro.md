@@ -11,7 +11,7 @@ El bit decidio calentar la crema de coliflor ya que el en su gran procesamiento 
 [//]: # (hacer-origami.md)
 [//]: # (ir-al-oxxo.md)
 
-1. Comercela ya que al ser muy perezoso el byte no tenia las ganas suficientes de volver a esperar mas tiempo en comer algo, asi que no quiso calentar el espagueti si no que quiso mejor comerce la coliflor podrida, porque ya estaba caliente, pero al ser muy listo el bytr decide tomarce un pepto al final de comer .[selecciona aquí](tomar-pepto.md)
+1. Comercela ya que al ser muy perezoso el byte no tenia las ganas suficientes de volver a esperar mas tiempo en comer algo, asi que no quiso calentar el espagueti si no que quiso mejor comerce la coliflor podrida, porque ya estaba caliente, pero al ser muy listo el bytr decide tomarce un pepto al final de comer [selecciona aquí](tomar-pepto.md)
 
 2. No comer nada y relajarce haciendo figuras de origami [selecciona aquí](hacer-origami.md)
 
