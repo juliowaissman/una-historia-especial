@@ -1,8 +1,9 @@
 [//]: # (por: Juan Hernandez)
 [//]: # (agregar la historia, para ir a: hablar con hugo)	
 [//]: # (hacerme unas quesadillas)
-[//]: # ()	
+[//]: # (Jugar PUBG)	
 [//]: # (jugar lol)	
+
 
 
 1.- [Hablar Con Hugo](hablar-con-hugo.md)
