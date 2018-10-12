@@ -1,11 +1,11 @@
 [//]: # (por: Juan Hernandez)
-[//]: # (agregar la historia, para ir a: )	
-[//]: # (inventar uno)
-[//]: # (inventar otro)	
-[//]: # (alguno otro de tu preferencia)	
+[//]: # (agregar la historia, para ir a: hablar con hugo)	
+[//]: # (hacerme unas quesadillas)
+[//]: # ()	
+[//]: # (jugar lol)	
 
 
-
- 1.- [Jugar Lol](jugar-lol.md)
-2.- [Hablar Con Hugo](hablar-con-hugo.md)
-3.- [Hacerme una quesadillas](Hacerme-unas-quesadillas)
+1.- [Hablar Con Hugo](hablar-con-hugo.md)
+2.- [Hacerme una quesadillas](Hacerme-unas-quesadillas.md)
+3.- [jugar PUBG] (jugar-PUBG.md)
+4.- [Jugar Lol](jugar-lol.md)
