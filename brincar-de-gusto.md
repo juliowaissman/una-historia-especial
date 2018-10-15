@@ -8,7 +8,7 @@ Después de que el bitecito haya pensado sobre su vida, recibe una llamada de su
 
 ![](waifu.jpg)
 
-Después de que el bitesito se despide de su waifu piensa muy seriamente sobre que hará con su vida, y piensa en hacer varias cosas hablar con Hugo, hacerse unas quesadillas, jugar PUBG o jugar lol para quitarse la tristeza que le produjo ese suceso
+Después de que el bitesito se despide de su waifu piensa muy seriamente sobre que hará con su vida, y piensa en hacer varias cosas como:
 
 1.- [Hablar Con Hugo](hablar-con-hugo.md)
 2.- [Hacerme una quesadillas](Hacerme-unas-quesadillas.md)
