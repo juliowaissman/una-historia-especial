@@ -6,4 +6,4 @@ El bit le dan ganas de llorar porque no sabe qué hacer con su vida. Buscó una 
 
 1. Decide ponerse a hacer origami como manera de relajación [selecciona aquí](hacer-origami.md)
 2. Toma pepto para quitarse el dolor de estómago [selecciona aquí](tomar-pepto.md)
-3. Decide consumir Drogas y gritar YOLO [**selecciona acá**](Drogas-O_o.md)
+3. Decide consumir Drogas y gritar YOLO [selecciona aquí](Drogas-O_o.md)
