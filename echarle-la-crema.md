@@ -1,7 +1,5 @@
 [//]: # (José Leyva:)
 [//]: # (comer-espagueti-podrido.md)
-[//]: # (brincar-de-gusto.md)
-[//]: # (alguno otro de tu preferencia)
 
 Al echarle la crema de coliflor, el bit no sabía si comérselo o no, ya que se veía muy extraño. Finalmente, se lo decidió comer, pero le dio ganas de ir al baño. Entonces, que crees que hizo después?
 
