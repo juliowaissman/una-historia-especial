@@ -6,6 +6,7 @@
 
 
 Bitecito estaba inspirado, podía sentir la adrenalina después de ver esa película. Tanto que no consideró es riesgo al que podía llevar esta acción, por lo cuál en un descuido tropezó con sus propios píxeles y se golpeó la cabeza.
-No parece reaccionar
+No parece reaccionar. Parece haber muerto.
 
-Bitecito murió[Selecciona aquí](muerte-de-bitecito.md)
+Bitecito murió[Seleccione aquí](muerte-de-bitecito.md)
+Bitecito revive:D[Seleccione aquí](revivir-bitecito.md)
