@@ -15,4 +15,4 @@
 | 11   | Hugo Cano                | slabxcobra@gmail.com                      |
 | 12   | Ibarra Medrano           | pablopj_glozel@hotmail.com                |
 | 13   | José Leyva               | josealc1998@gmail.com                      |
- 
+| 14   | Cañez Rosas Lizeth       | lizethpao991@gmail.com
