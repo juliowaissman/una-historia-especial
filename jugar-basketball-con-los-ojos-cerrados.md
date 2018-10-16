@@ -9,4 +9,5 @@ Bitecito estaba inspirado, podía sentir la adrenalina después de ver esa pelí
 No parece reaccionar. Parece haber muerto.
 
 Bitecito murió[Seleccione aquí](muerte-de-bitecito.md)
+
 Bitecito revive:D[Seleccione aquí](revivir-bitecito.md)
