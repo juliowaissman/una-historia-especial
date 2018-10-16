@@ -1,4 +1,4 @@
-[//]: # (Viene de SpaceJam)
+[//]: # (Viene de ver-spaceJam-en-vivo.md)
 [//]: # (agregar la historia, para ir a: )
 [//]: # (inventar uno)
 [//]: # (inventar uno)
