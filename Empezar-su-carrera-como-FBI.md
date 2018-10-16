@@ -10,7 +10,7 @@
  
 El señor Bitecito no sabe que hacer y....
 
-1. Decide consumir drogas Clase A y se cerdea con un coctel de DMT, MDMA, STP, PMA y Luci in the Sky with Diamonds [selecciona aquí](Drogas-O_o.md)
+1. Decide consumir drogas Clase A y se cerdea con un maldito cóctel de DMT, MDMA, STP, PMA y Luci in the Sky with Diamonds...(quería consumir THC pero decide que esa porqueria es nacos :3) [selecciona aquí](Drogas-O_o.md)
 
 2. Le importan 1000 galaxias de... :# kkguate los malditos pedofilos nazi y quiere jugar lol, pero decide ir troll con Sona jungla [selecciona aquí](jugar-lol.md)
 
