@@ -9,7 +9,7 @@
 
   Bitecito comenzó a tener una relación online con bitecita, llegando al punto donde quería verla y no tenía más que la foto de perfil de bitecita en el sitio de citas.
   
-    ![](https://s1.piq.land/2014/10/18/lqhAHIrQWuFarASx9L4UI5eq_400x400.png)
+   [(https://s1.piq.land/2014/10/18/lqhAHIrQWuFarASx9L4UI5eq_400x400.png)]
     
   Cuando bitecita acepta ver a bitecito, bitecito se dio cuenta de que:
       
