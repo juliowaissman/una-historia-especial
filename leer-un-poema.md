@@ -9,6 +9,8 @@ Sintiéndose ya mejor el pequeño bit, éste se dispone a leer un poema.
 
 El byte decide buscar entre los viejos libros de la casa y se encuentra un poemarío perteneciente al famoso cantautor Manuel Darío.
 
+![](https://i.ytimg.com/vi/-H5KS8-pipo/maxresdefault.jpg)
+
 Entonces lee, y lee y no deja de leer hasta haber terminado: Cuando te veo me late el corazón, las rimas de beckett, y yo que la llevé al río, ser o no ser, y tantas otras. Decepcionado por los poemas, el pequeño bit se aburre y decide hacer otra cosa.
 
 Escoge:
