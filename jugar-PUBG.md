@@ -4,7 +4,7 @@
 [//]: # (ir-a-jugar-al-mundial-de-lol.md)
 
 bitesito decidio que era su momento, estaba listo, tenia la capazidad suficiente para entar a esta aventura, decidio instalar el juego que una vez jugo mucha gente y metio por completo la forma mavisa de personas en un mismo sitio en supervivencia 
-![](https://kulturalnemedia.pl/wp-content/uploads/2017/04/player-unknowns-battlegrounds.jpg)
+![](pubg.jpg)
 
 entro a partida 
 salto del avion
