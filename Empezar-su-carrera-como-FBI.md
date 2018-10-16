@@ -12,6 +12,6 @@ El señor Bitecito no sabe que hacer y....
 
 1. Decide consumir drogas Clase A [selecciona aquí](Drogas-O_o.md)
 
-2. Le importan 1000 galaxias de kkguate los malditos pedofilos nazi y quiere jugar lol pero decide ir troll con Sona jungla [selecciona aquí](jugar-lol.md)
+2. Le importan 1000 galaxias de kkguate los malditos pedofilos nazi y quiere jugar lol, pero decide ir troll con Sona jungla [selecciona aquí](jugar-lol.md)
 
 3. Se plantea los motivos para seguir viviendo :) [selecciona aquí](motivos-para-vivir.md)
