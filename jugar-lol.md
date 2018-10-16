@@ -13,7 +13,7 @@ bitesito decidio abrir su cuenta y empezar a jugar, el escogio a su main yasuo d
 
 ![](https://las.leagueoflegends.com/sites/default/files/styles/wide_medium/public/upload/project_yasuo_splash.jpg?itok=oY2VbcLR)
 
-como todos nos lo esperabamos, bitesito armo la primera sangre, el murio, pero eso no lo detuvo, volvio a base para y compro unas botas para llegar mas rapido a que lo mataran de nuevo, pero bitesito ni se inmuta  Mientras más pasaba el tiempo se daba cuenta de que iba a llegar un momento en el que iba a poder llegar a matar a alguien y así como él esperaba resultó llegó el late y bitesito  con  con todas las manos que le había dado la skin  logró hacerse una triple baja ya que el jungla lo habían quedado y fue a matar rápido al top y buscó en Google Cómo entrar en el mundial y entonces bitesito decidio: 
+como todos nos lo esperabamos, bitesito armo la primera sangre, el murio, pero eso no lo detuvo, volvio a base y compro unas botas para llegar mas rapido a que lo mataran de nuevo, pero bitesito ni se inmuta  Mientras más pasaba el tiempo se daba cuenta de que iba a llegar un momento en el que iba a poder llegar a matar a alguien y así como él esperaba resultó llegó el late y bitesito  con  con todas las manos que le había dado la skin  logró hacerse una triple baja ya que el jungla lo habían quedado y fue a matar rápido al top y buscó en Google Cómo entrar en el mundial y entonces bitesito decidio: 
 
 1)  [ir al mundial de lol](ir-a-jugar-al-mundial-de-lol.md)
 
