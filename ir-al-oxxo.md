@@ -10,7 +10,7 @@ El bit fue a comprar lo necesario en el oxxo, pero le entro una duda sobre algo 
 
 2.- Tiene dudas de porque seguir viviendo en este mundo ostil dondde la comida lo ah traicionado varias veces [selecciona aquí](tengo-dudas-de-porque-vivir.md)
 
-3.-No tenia dudas y nomas se compro unos doritos con mountain dew [selecciona aquí](compre-unos-doritos-con-Mountain-Dew.md)
+3.-No tenia dudas y compro lo que necesitaba mas unos doritos con mountain dew [selecciona aquí](compre-unos-doritos-con-Mountain-Dew.md)
 
 [//]: # (hablarle-a-su-abuela.md)
 [//]: # (tengo-dudas-de-porque-vivir.md)
