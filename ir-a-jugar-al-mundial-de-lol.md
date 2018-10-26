@@ -1,4 +1,6 @@
 [//]: # (agregar la historia, para ir a: )
+[//]: # (Por: Martin Vega)
+
 [//]: # (inventar uno)
 [//]: # (inventar otro)
 [//]: # (alguno otro de tu preferencia)
